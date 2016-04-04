@@ -22,35 +22,38 @@ _Web_
 
 _HTML, CSS, JavaScript_
 
-- reveal.js
-- bespoke.js
-- shower
-- s5
-- s6 / slidekit
+- **reveal.js**
+- **bespoke.js**
+- **impress.js**
+- **deck.js**
+- **shower**
+- **s5**
+- **s6 / slidekit**
+- **slidy**
 
 
 ## Markdown
 
 _Convert Text in Markdown to Slide Shows / Presentations_
 
-- Slide Show (S9)
+- **Slide Show (S9)**
   - Slide Show Templates
   - More
     - reveal.js
     - shower
 
-- pandoc  (supports ??)
+- **pandoc**  (supports ??)
 
 
 ## LaTeX
 
 _Packages_
 
-- beamer
+- **beamer**
 
 _Convert Text in Mardown to LaTex_
 
-- pandoc (supports beamer)
+- **pandoc** (supports beamer)
 
 
 
