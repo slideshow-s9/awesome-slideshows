@@ -27,6 +27,7 @@ _HTML, CSS, JavaScript_
 - **impress.js** (github: [impress](https://github.com/impress)) by Bartek Szopka et al
 - **deck.js** (github: [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js)) by Caleb Troughton et al
 - **shower** (github: [shower](https://github.com/shower)) by Vadim Makeev et al
+- **spectacle** (github: [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)) by Ken Wheeler et al
 - **s6 / slidekit** (github: [slidekit](https://github.com/slidekit))
 
 Oldies / Historic
