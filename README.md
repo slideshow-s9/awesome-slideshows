@@ -22,14 +22,17 @@ _Web_
 
 _HTML, CSS, JavaScript_
 
-- **reveal.js**
-- **bespoke.js**
-- **impress.js**
-- **deck.js**
-- **shower**
-- **s5**
-- **s6 / slidekit**
-- **slidy**
+- **reveal.js** (github: [hakimel/reveal.js](https://github.com/hakimel/reveal.js)) by Hakim El Hattab et al
+- **bespoke.js** (github: [bespokejs](https://github.com/bespokejs)) by Mark Dalgleish et al
+- **impress.js** (github: [impress](https://github.com/impress)) by Bartek Szopka et al
+- **deck.js** (github: [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js)) by Caleb Troughton et al
+- **shower** (github: [shower](https://github.com/shower)) by Vadim Makeev et al
+- **s6 / slidekit** (github: [slidekit](https://github.com/slidekit))
+
+Oldies / Historic
+
+- **s5** (web: [meyerweb.com/eric/tools/s5](http://meyerweb.com/eric/tools/s5)) by Eric A. Meyer et al
+- **slidy** (web: [w3.org/Talks/Tools/Slidy2](https://www.w3.org/Talks/Tools/Slidy2)) by Dave Raggett et al
 
 
 ## Markdown
