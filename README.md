@@ -29,7 +29,8 @@ _HTML, CSS, JavaScript_
 - **shower** (github: [shower](https://github.com/shower)) by Vadim Makeev et al
 - **spectacle** (github: [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)) by Ken Wheeler et al
 - **remark** (web: [remarkjs.com](http://remarkjs.com), github: [gnab/remark](https://github.com/gnab/remark)) by Ole Petter Bang et al
-- **s6 / slidekit** (github: [slidekit](https://github.com/slidekit))
+- **webslides** (web: [webslides.tv](https://webslides.tv), github: [jlantunez/webslides](https://github.com/jlantunez/webslides)) by José Luis Antúnez et al
+- **s6 / slidekit** (github: [slidekit](https://github.com/slidekit)) by Gerald Bauer et al
 
 Oldies / Historic
 
