@@ -54,9 +54,9 @@ _Convert Text in Markdown to Slide Shows / Presentations_
 
 _Convert content in AsciiDoc to Slide Shows / Presentations_
 
-_ **Asciidoctor Deck.js** (web: [asciidoctor.org/docs/install-and-use-deckjs-backend](http://asciidoctor.org/docs/install-and-use-deckjs-backend)
-_ **Asciidoctor Reveal.js** (web: [asciidoctor.org/docs/asciidoctor-revealjs](http://asciidoctor.org/docs/asciidoctor-revealjs)
-_ **Asciidoctor Bespoke.js** (github: [asciidoctor/asciidoctor-bespoke](https://github.com/asciidoctor/asciidoctor-bespoke)
+- **Asciidoctor Deck.js** (web: [asciidoctor.org/docs/install-and-use-deckjs-backend](http://asciidoctor.org/docs/install-and-use-deckjs-backend)
+- **Asciidoctor Reveal.js** (web: [asciidoctor.org/docs/asciidoctor-revealjs](http://asciidoctor.org/docs/asciidoctor-revealjs)
+- **Asciidoctor Bespoke.js** (github: [asciidoctor/asciidoctor-bespoke](https://github.com/asciidoctor/asciidoctor-bespoke)
 
 ## LaTeX
 
