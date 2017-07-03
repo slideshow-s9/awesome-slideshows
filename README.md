@@ -31,6 +31,7 @@ _HTML, CSS, JavaScript_
 - **remark** (web: [remarkjs.com](http://remarkjs.com), github: [gnab/remark](https://github.com/gnab/remark)) by Ole Petter Bang et al
 - **webslides** (web: [webslides.tv](https://webslides.tv), github: [jlantunez/webslides](https://github.com/jlantunez/webslides)) by José Luis Antúnez et al
 - **s6 / slidekit** (github: [slidekit](https://github.com/slidekit)) by Gerald Bauer et al
+- **Talkie** (github: [ahomu/Talkie](https://github.com/ahomu/Talkie)) by Ayumu Sato -- simple slide presentation library; responsive scaling & markdown ready; recommended by Axel Rauschmayer
 
 Oldies / Historic
 
