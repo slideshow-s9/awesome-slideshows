@@ -16,6 +16,7 @@ _Web_
 
 - **Google Slides** - Commercial
 - **Prezi** - Commercial
+- **[GitPitch Pro](https://gitpitch.com)** - Commercial
 
 
 ## Web Templates
@@ -48,6 +49,10 @@ _Convert Text in Markdown to Slide Shows / Presentations_
   - More
     - reveal.js
     - shower
+
+- **GitPitch**
+  - (github: [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch)) by David Russell
+  - The Markdown Presentation on Git for GitHub, GitLab, and Bitbucket users.
 
 - **pandoc**  (supports ??)
 
