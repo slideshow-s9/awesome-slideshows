@@ -23,6 +23,7 @@ _Web_
 
 _HTML, CSS, JavaScript_
 
+- **slipshow** (github: [panglesd/slipshow](https://github.com/panglesd/slipshow)) by Paul-Elliot Anglès d'Auriac
 - **reveal.js** (github: [hakimel/reveal.js](https://github.com/hakimel/reveal.js)) by Hakim El Hattab et al
 - **bespoke.js** (github: [bespokejs](https://github.com/bespokejs)) by Mark Dalgleish et al
 - **impress.js** (github: [impress](https://github.com/impress)) by Bartek Szopka et al
